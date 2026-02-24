@@ -6,8 +6,6 @@
 
 JavaScript React Node.js Python
 
-Replace these with your own tech stack! Find more badges at shields.io or this repository
-Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/haziel-r-z-9b2429379/) | |
 
