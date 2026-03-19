@@ -4,7 +4,7 @@
 
 🛠️ My Toolkit
 
-JavaScript React Node.js Python
+JavaScript|| React || Node.js || Python || Vue
 
 
 [LinkedIn](https://www.linkedin.com/in/haziel-r-z-9b2429379/) | |
