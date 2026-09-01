@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HazielRZ
-- 👀 I’m interested in Data and neuronal links
+- 👀 I’m interested in Data, Data Structures and neuronal links
 - 🌱 I’m currently learning java, python, Mysql
+- I'm a software engineer with project design skills
 
 🛠️ My Toolkit
 
